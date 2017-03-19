@@ -1,0 +1,14 @@
+GetLunchMenuIntent was gibts zu essen
+GetLunchMenuIntent was gibts es zu essen
+GetLunchMenuIntent was gibt es heute
+GetLunchMenuIntent was gibt es heute zu essen
+GetLunchMenuIntent was es zu essen gibt
+GetLunchMenuIntent nach der speisekarte
+GetLunchMenuIntent essen
+GetLunchMenuIntent nach dem essen
+GetLunchMenuIntent mittagessen
+GetLunchMenuIntent nach dem mittagessen
+GetLunchMenuIntent hunger
+GetLunchMenuIntent ich habe hunger
+GetLunchMenuIntent ich verhunger
+GetLunchMenuIntent was gibt es in der kantine
