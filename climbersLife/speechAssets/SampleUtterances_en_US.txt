@@ -1,0 +1,17 @@
+ClimberSignIntent if i am a climber
+ClimberSignIntent a quote
+ClimberSignIntent for a quote
+ClimberSignIntent for a sign
+ClimberSignIntent for a sign that i am a climber
+ClimberSignIntent tell me a sign
+ClimberSignIntent tell me a sign that i am a climber
+ClimberSignIntent am i a climber
+ClimberSignIntent tell me something
+ClimberSignIntent to tell me something
+ClimberSignIntent give me something
+ClimberSignIntent to give me something
+ClimberSignIndexIntent sign {Index}
+ClimberSignIndexIntent sign number {Index}
+ClimberSignIndexIntent tell me sign number {Index}
+ClimberSignIndexIntent for sign {Index}
+ClimberSignIndexIntent for sign number {Index}
