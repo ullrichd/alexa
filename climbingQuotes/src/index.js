@@ -20,9 +20,9 @@ const languageStrings = {
 		"translation": {
 			"QUOTES": quotes.QUOTES_EN,
 			"ANSWER_INTRO": [
-				"Here is your quote:... ",
-				"Here you go:... ",
-				"A climbing quote is:... "
+				"Here is your quote: ... ",
+				"Here you go: ... ",
+				"A climbing quote is: ... "
 			],
 			"QUOTE_AUTHOR_SEPARATOR": "\n\t - ",
 			"SKILL_NAME": "Climbing Quotes",

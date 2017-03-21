@@ -4,7 +4,7 @@ module.exports = {
 		['A dying Star Trek character', 'Many years ago, I climbed the mountains, even thought it is forbidden. Things are not as they teach us; the world is hollow, and I have touched the sky.'],
 		['Barry Blanchard', 'It doesn\'t have to be fun to be fun.'],
 		['Ben Moon', 'Variety is the spice of life. Variety will give you good skills, stop you stagnating and keep you motivated.'],
-		['Chuck Pratt', 'I don\'t want to write about climbing; I don\'t want talk about it; I don\'t want to photograph it; I don\'t want to think about it; all I want to do is do it.'],
+		['Chuck Pratt', 'I don\'t want to write about climbing; I don\'t want to talk about it; I don\'t want to photograph it; I don\'t want to think about it; all I want to do is do it.'],
 		['Dave Graham', 'I remember all the moves of every problem I\'ve ever done. This is what keeps me up at night.'],
 		['Ed Viesturs', 'It\'s a round trip. Getting to the summit is optional, getting down is mandatory.'],
 		['Edmund Hillary', 'It is not the mountain we conquer, but ourselves.'],
