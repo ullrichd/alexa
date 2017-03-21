@@ -1,0 +1,12 @@
+ClimbingQuoteIntent a quote
+ClimbingQuoteIntent tell me a quote
+ClimbingQuoteIntent for a quote
+ClimbingQuoteIntent tell me something
+ClimbingQuoteIntent to tell me something
+ClimbingQuoteIntent give me something
+ClimbingQuoteIntent to give me something
+ClimbingQuoteIndexIntent quote {Index}
+ClimbingQuoteIndexIntent quote number {Index}
+ClimbingQuoteIndexIntent tell me quote number {Index}
+ClimbingQuoteIndexIntent for quote {Index}
+ClimbingQuoteIndexIntent for quote number {Index}
